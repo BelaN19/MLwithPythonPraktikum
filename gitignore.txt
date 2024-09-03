@@ -11,10 +11,11 @@
 # Ignoriere Pygments Dateien
 *.pyg
 *.DS_STORE
+.DS_Store
 
 # Ignoriere Verzeichnisse, die von minted-Paketen verwendet werden
 _minted-
 
 .vscode/
 _minted-IntroductionToAI/
-.venv/
+venv/
