@@ -1,0 +1,20 @@
+# Ignoriere LaTeX Hilfsdateien
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.synctex(busy)
+*.fls
+*.fdb_latexmk
+
+# Ignoriere Pygments Dateien
+*.pyg
+*.DS_STORE
+
+# Ignoriere Verzeichnisse, die von minted-Paketen verwendet werden
+_minted-
+
+.vscode/
+_minted-IntroductionToAI/
+.venv/
