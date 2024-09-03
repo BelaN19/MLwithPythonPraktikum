@@ -1,0 +1,4 @@
+ipython==8.26.0
+jupyter==1.0.0
+numpy==1.26.3
+pillow==10.2.0
